@@ -1,11 +1,13 @@
 - 👋 Hi, I’m James Michael Patrick Brady / @RelativisticCanoe
-- 👀 I’m interested in solving physical problems through the use of programming languages and simulations
-- 🌱 I’m currently learning how to enter an industry job for the first time
+- 🎓 Graduated with a 2:1 MPhys Physics with Astrophysics (Hons) from the University of Manchester
+- 👀 I’m interested in solving physical problems through the use of programming languages and simulations, alongside applying analytical techniques to find patterns in data
+- 🌱 I’m currently seeking my first career job, in the meantime I'm volunteering for a local art gallery and engaging 
 - 💞️ I’m looking to collaborate on anything that makes use of my background in physics/data analysis that doesn't involve defense contracts or financial tech
-- 📫 How to reach me: email me at james.m.p.brady@gmail.com (preferred) or call my personal phone number: +44 07842 088065.
+- 📫 How to reach me: contact me via my [LinkedIn page](https://www.linkedin.com/in/james-m-p-brady/) as listed on my profile
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I really enjoy making 3D objects and procedural material art in Blender
-
+- ⚡ Fun fact: In my spare time, I enjoy creating 3D objects and procedural material art in Blender
+---
+## Skills:
 
 You can find a small portfolio of work that I completed over the course of MPhys degree with the University of Manchester here:
 - Numerical Simulations of Spring Systems using Python (2nd Year Assignment)
